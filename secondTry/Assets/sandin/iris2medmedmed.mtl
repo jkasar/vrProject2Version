@@ -1,0 +1,26 @@
+newmtl Solid
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 0
+
+newmtl iris2medmedmed
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 0
+map_Kd iris2medmedmed.jpg
+
+newmtl iris2medmedmed1
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 0
+map_Kd iris2medmedmed1.jpg
+
